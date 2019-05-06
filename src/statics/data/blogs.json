@@ -1,0 +1,60 @@
+{
+  "introduction": [
+    {
+      "id": "intro",
+      "date": "2019",
+      "title": "Overview",
+      "description": "Final year project logs - João Viana - Goldsmiths, University of London"
+    }
+  ],
+  "logs": [
+    {
+      "id": "post-1",
+      "date": "January 03, 2019",
+      "title": "An Overview on Sound Spatialisation Techniques",
+      "description": ""
+    },
+    {
+      "id": "post-2",
+      "date": "January 17, 2019",
+      "title": "Virtual Reality and Sound",
+      "description": ""
+    },
+    {
+      "id": "post-3",
+      "date": "January 31, 2019",
+      "title": "Resonance Audio SDK ",
+      "description": ""
+    },
+    {
+      "id": "post-4",
+      "date": "February 14, 2019",
+      "title": "VR Development Frameworks",
+      "description": ""
+    },
+    {
+      "id": "post-5",
+      "date": "February 28, 2019",
+      "title": "Building the Application",
+      "description": ""
+    },
+    {
+      "id": "post-6",
+      "date": "March 14, 2019",
+      "title": "User Evaluation",
+      "description": ""
+    },
+    {
+      "id": "post-7",
+      "date": "May 07, 2019",
+      "title": "User Evaluation - Analysis",
+      "description": ""
+    },
+    {
+      "id": "post-8",
+      "date": "May 10, 2019",
+      "title": "Final Thoughts",
+      "description": ""
+    }
+  ]
+}
