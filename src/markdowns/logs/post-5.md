@@ -23,3 +23,10 @@ I wish I have bought a different HMD. Oculus Go does not allow the user to move 
 
 Customisable Scene - sound source (sphere). User can change the materials/properties of the room, sound source shape, sound file, gain and how sound should be attenuated. 
 Beginning the Learn Menu: Occlusion effect and explaining directivity patterns; Late Reflections durations - getting these values by inspecting the Resonance Audio JS file
+
+## Supervisor Meeting Notes
+Talked about User Testing Methods that are going to be applied
+
+Talked about hibrid methods used in VR user testing; 
+
+It was pointed out how important to the grade the Testing phase is and how to analyse and further discuss the results

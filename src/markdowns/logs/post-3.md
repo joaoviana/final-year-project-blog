@@ -1,5 +1,5 @@
 # Resonance Audio SDK
-#### January 31, 2019
+#### Feburary 08, 2019
 
 The Resonance Audio SDK, an open-source C++ library initially developed by Google, will aid my development process with a high-fidelity, spatial audio SDK, which delivers powerful and realistic methods that simulates how the human ear perceives sound and how the environment influences the same process. 
 
@@ -22,3 +22,8 @@ It is supported by all browsers available and users can use this SDK in various 
 
 Resonance Audio provides with advanced sound design features, cross-platform support and high-resolution performance for both desktop and mobile devices. It allows the developer to utilise their optimized signal processing algorithms on hundreds of sound sources without compromising audio quality. By incorporating all sound sources in a global Ambisonic sound filed, HRTFs are applied just once globally, rather than jeopardizing large CPU costs per sound source. 
 
+
+## Supervisor Meeting Notes
+Talked about the Resonance Audio SDK
+
+Explored other technologies and talked about doing a case study on Devil's Tuning Fork

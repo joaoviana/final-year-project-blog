@@ -20,3 +20,9 @@ The Web Audio API was built by W3C, the World Wide Web Consortium. Right after t
 A modern solution for adding stable 360 sound rendering in WebVR while using the Web Audio API is the Resonance Audio SDK made by Google. The next log will cover this.
 
 
+## Supervisor Meeting notes
+What technologies to use 
+
+Understand exactly what I want to show to the user 
+
+Immersive experiences do not necessarily mean that they have to be super realistic; Find ways to enhance those perceptual cues and ramp up reality!
